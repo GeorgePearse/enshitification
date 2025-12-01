@@ -228,6 +228,27 @@ The term was coined by Cory Doctorow in November 2022 and was selected as:
 
 ---
 
+### Domain Registration & Hosting
+
+#### GoDaddy
+- Charges $63-$270/year for SSL certificates that Let's Encrypt provides free
+- Doesn't support ACME protocol, blocking free automated certificate renewal
+- Hidden fees: $150 SSL + $192/year security + $36/year backups = $462+/year real cost
+- Checkout process described as "a minefield of upsell options"
+- Aggressively auto-adds services to cart; "one moment of distraction" = unwanted purchases
+- Sales reps "cited nonexistent Google penalties" to fear-monger SSL upsells
+- "Uses SSL certificates as a cash cow, hopes you won't know any better"
+- Targets people "who don't know any better" and charges for what others offer free
+- Domain transfer process deliberately unclear; users report 4+ attempts needed
+- No straightforward way to cancel protected registration - hidden in help section
+- Described as "one big scam to keep you with them and keep trying to upsell"
+- Alternatives: Namecheap, Porkbun, Hover, Cloudflare (transparent pricing)
+- [GoDaddy Review: NEVER Use This Provider](https://www.websitegecko.com/godaddy-review/)
+- [5 Reasons to Avoid GoDaddy](https://www.the215guys.com/blog/reasons-to-avoid-godaddy-web-hosting/)
+- [Hostinger vs GoDaddy: Dark Pattern Hell](https://www.websiterating.com/hosting/hostinger-vs-godaddy/)
+
+---
+
 ### Communication Platforms
 
 #### Discord
