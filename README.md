@@ -24,6 +24,10 @@ The term was coined by Cory Doctorow in November 2022 and was selected as:
 ### Social Media
 
 #### Twitter / X
+- **API pricing explosion**: Free tier eliminated (Feb 2023), enterprise jumped from $2,899/month to $42,000/month
+- "Overnight, thousands of bots went dark, student projects broke, and indie developers scrambled"
+- Third-party apps (Tweetbot, Twitterrific, etc.) forced to shut down entirely
+- Basic tier doubled from $100 to $200/month (late 2024)
 - Closure of API to prevent interoperable software
 - Suspending users for posting Mastodon handles
 - Rate limits on tweet viewing without logging in
@@ -31,6 +35,8 @@ The term was coined by Cory Doctorow in November 2022 and was selected as:
 - Algorithm modified to promote Musk's posts above others
 - New users required to pay to post (April 2024)
 - Revenue fell 84% by August 2024 compared to pre-Musk ownership
+- [The Absurdity of Twitter's $42,000 API Fee](https://goldpenguin.org/blog/twitter-api-pricing-joke/)
+- [Twitter APIs Are Going Very Wrong](https://thenewstack.io/twitter-apis-are-going-very-wrong/)
 
 #### Facebook
 - Started as platform for connecting with friends
