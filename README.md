@@ -51,9 +51,15 @@ The term was coined by Cory Doctorow in November 2022 and was selected as:
 - September 2024: Moderators can no longer change subreddit accessibility without Reddit approval
 
 #### LinkedIn
-- Milking business customers with high fees
+- Average views per post fell 16% in year to October 2023
+- Reach, engagement, and follower growth dropped 50% for 95% of creators (2024)
+- Algorithm changes favor irrelevant, low-quality viral content
 - Search results favor those who pay the most over relevance
-- Spam and low-quality content proliferation
+- Milking business customers with high fees
+- 55% increase in premium subscriptions (2024) as job hunters have no alternative
+- No real competitor has emerged, enabling continued extraction
+- Feed flooded with engagement-bait: emoji polls, chain letters, reaction-farming
+- "Professional" platform increasingly resembles Facebook feed quality
 
 ---
 
@@ -260,6 +266,7 @@ Key mechanisms:
 - [Wikipedia: Enshittification](https://en.wikipedia.org/wiki/Enshittification)
 - [Doctorow's DEF CON 31 talk](https://www.youtube.com/watch?v=rimtaSgGz_4)
 - [The Enshittification of LinkedIn](https://www.icopilots.com/enshittification-linkedin/)
+- [LinkedIn Is The Latest Victim Of 'Enshittification'](https://startups.co.uk/news/linkedin-enshittification/)
 - [Adobe Enshittification](https://www.brucemarriott.com/2024/12/26/adobe-enshittification-and-moving-on-from-photoshop)
 - [Gaming and Enshittification](https://monkeyslunch.com/gaming-isnt-immune-to-enshittification/)
 - [The Enshittification of Digital Services](https://www.createwithswift.com/the-enshittification-of-digitial-services/)
